@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Redirecting to M3...</h2>
+
+    <script>
+      // Force navigation to private-network M3 server
+      window.location.href = "http://<https://begaprd.cloud.infor.com/infor/c43dde8e-727c-4200-aa3f-eb97cd78a9eb>/m3ui";
+    </script>
+
+  </body>
+</html>
